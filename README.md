@@ -120,9 +120,14 @@
   <a href="https://github.com/Kush3008?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
+<hr>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kush3008.Kush3008">
-</div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kush3008/kush3008/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
