@@ -5,6 +5,7 @@
     💼 BTECH @ SRM • Developer of all • UI/UX Designer
     💻 AI and ML • Front-end • Back-end • Data Engineering
     🎮 Music • Games • Anime • Code • Art • All Things Amazing
+    📓 Currently Learning GenAI • MERN Stack • Node.js
   </pre>
   <br><br>
   <img src="https://64.media.tumblr.com/b7192d9e53e93a3142998bd872978b56/2b0a3acad5193a8c-7b/s400x600/3dcf633995a22e73e4b4f59fe1acfe499e9cd69f.gifv" style="width: 100%; object-fit: cover; object-position: top;" />
