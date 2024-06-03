@@ -1,7 +1,6 @@
-<img src="Waves.svg"></img>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=61dafb&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+there,+I+am+Kushagra...;Welcome+to+my+profile,+hope+you+have+a+good+time+%3A3" width="100%" />
+<div align="center" style="position: relative;">
+  <img src="Waves.svg" style="position: absolute; top: 0; left: 0; z-index: 1; width: 100%;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=61dafb&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+there,+I+am+Kushagra...;Welcome+to+my+profile,+hope+you+have+a+good+time+%3A3" width="100%" style="position: relative; z-index: 2;" />
   <br><br>
   <pre> 
     💼 BTECH @ SRM • Developer of all • UI/UX Designer
