@@ -131,5 +131,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kush3008/kush3008/output/github-contribution-grid-snake.svg">
 </picture>
+  <img src="Waves_down.svg" style="position: absolute; top: 0; left: 0; z-index: 1; width: 100%;" />
 </div>
-
