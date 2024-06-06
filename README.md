@@ -114,9 +114,11 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Kush3008/Agriweather_Wizard" title="Agriweather Wizard"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Kush3008&repo=Agriweather_Wizard&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="center" href="https://github.com/Kush3008/Agriweather_Wizard" title="Agriweather Wizard"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Kush3008&repo=Agriweather_Wizard&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kush3008.kush3008">
 
 <h4 align="center">
   <a href="https://github.com/Kush3008?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
