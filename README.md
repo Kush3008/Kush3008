@@ -109,12 +109,12 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Kush3008/Safer-Travel_Routing-Algorithm" title="Safer Travel Routing Algorithm"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Kush3008&repo=Safer-Travel_Routing-Algorithm&theme=soft-green&border_color=A7A459&border_radius=10"></a>
-  <a align="right" href="https://github.com/Kush3008/Hammer-Time-Gamedev" title="Hammer Time Gamedev"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Kush3008&repo=Hammer-Time-Gamedev&theme=soft-green&border_color=A7A459&border_radius=10"></a>
+  <a align="left" href="https://github.com/Kush3008/Safer-Travel_Routing-Algorithm" title="Safer Travel Routing Algorithm"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Kush3008&repo=Safer-Travel_Routing-Algorithm&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Kush3008/Hammer-Time-Gamedev" title="Hammer Time Gamedev"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Kush3008&repo=Hammer-Time-Gamedev&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Kush3008/Agriweather_Wizard" title="Agriweather Wizard"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Kush3008&repo=Agriweather_Wizard&theme=soft-green&border_color=A7A459&border_radius=10"></a>
+  <a align="left" href="https://github.com/Kush3008/Agriweather_Wizard" title="Agriweather Wizard"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Kush3008&repo=Agriweather_Wizard&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
