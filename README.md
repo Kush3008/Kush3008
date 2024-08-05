@@ -26,7 +26,7 @@
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kush3008.Kush3008"> -->
 
 <p align="center">
-  Hi, I'm Kush3008, a Coding Enthusiast, Every developer, a project builder from India.
+  Hi, I'm Kush3008, a Coding Enthusiast, Every kind of developer, a project builder from India.
   <br>
   <br>
   🔬 I'm currently working as an Ai and Data Engineer at Genpact
