@@ -9,7 +9,7 @@
     📓 Currently Learning GenAI • MERN Stack • Node.js
   </pre>
   <br><br>
-  <img src="https://s1.ezgif.com/tmp/ezgif-1-783376b478.gif" style="width: 100%; height: 100%; object-fit: fill; object-position: top;" />
+  <img src="[https://s1.ezgif.com/tmp/ezgif-1-783376b478.gif](https://64.media.tumblr.com/b7192d9e53e93a3142998bd872978b56/2b0a3acad5193a8c-7b/s400x600/3dcf633995a22e73e4b4f59fe1acfe499e9cd69f.gifv)" style="width: 100%; height: 100%; object-fit: fill; object-position: top;" />
   <br><br><br>
     
   [![](https://img.shields.io/badge/linkedin-0a66c2)](www.linkedin.com/in/kushagra-agarwal-88614b219)
